@@ -24,3 +24,5 @@ for i in range(lin):
         matriz.append(linha) #adiciona a linha à matriz
 
 print("O maior valor está na posição {} e vale {}".format(posicao, maximo))
+
+#Copiado de StackOverflow
